@@ -1,0 +1,7 @@
+{
+  "name": "UrbanVibe - Masculino",
+  "description": "Uma loja de moda urbana masculina minimalista e moderna, focada em adolescentes, com catálogo filtrável, carrinho dinâmico e lista de desejos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
